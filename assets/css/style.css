@@ -322,3 +322,28 @@ input::-webkit-input-placeholder{
     display: flex;
 }
 /*--------------------------------footer--------------------------------*/
+footer{
+    margin: 0 auto;
+    width: 1440px;
+    padding: 100px 320px;
+}
+.line{
+    margin-top: 19px;
+    display: flex;
+}
+.foot_text{
+    font-family: Georgia;
+    font-size: 15px;
+    color: #45525B;
+    margin-right: 20px;
+}
+.foot_subtext{
+    font-family: Georgia;
+    font-size: 14px;
+    margin-top: 9px;
+    color: #353732;
+}
+.foot_img{
+    display: flex;
+    width: 78px;
+}
