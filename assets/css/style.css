@@ -229,6 +229,9 @@ input::-webkit-input-placeholder{
     margin-top: 10px;
     color: white;
 }
+.btn1:hover{
+    transform: scale(1.2);
+}
 .input{
     width: 376px;
     height: 38px;
